@@ -99,7 +99,7 @@ const LoginPage = () => {
       <div className="login-container">
         <div className="login-side">
           <div className="logo">
-            <img src="logo.jpg" alt="Lendsqr Logo" />
+            <img src="logo-bg.png" alt="Lendsqr Logo" />
           </div>
           <img
             src="image-bg.png"

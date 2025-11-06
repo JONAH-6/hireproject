@@ -292,7 +292,7 @@
         display: block;
 
         @media (max-width: 480px) {
-          height: 24px;
+          height: 80px;
         }
       }
     }
@@ -416,7 +416,8 @@
       align-items: center;
       gap: 10px;
       cursor: pointer;
-      padding: 8px 12px;
+      padding: 8px 10px;
+      margin: 0 2rem;
       border-radius: 8px;
       transition: background-color 0.3s ease;
       flex-shrink: 0;
